@@ -37,8 +37,18 @@
     justify-content: center;
 }
 @media screen and (max-width: 600px) {
+    .main-heading {
+        color: snow;
+        font-weight:bold;
+    }
+    .main-container {
+        background-color:#5d5dff;
+    }
+    .movie-image {
+        border-radius:4px;
+    }
     .movie {
-       min-width:200px;
+       min-width:260px;
        margin:20px;
        display: flex;
        flex-direction: column; 

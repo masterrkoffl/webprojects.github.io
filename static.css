@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+}
+.main-container {
+    height:auto; 
+    width:100vw; 
+    padding:10px;
+    background-color: #5bb3ff;
+}
+.main-heading {
+    color: rgb(6, 6, 52);
+    margin-top: 20px;
+    text-align: center; 
+}
+.movie {
+    background-color: snow; 
+    padding:20px;
+    border-radius:7px; 
+    margin:40px 60px;
+}
+.movie-image {
+    width:180px;
+    height:249px;
+}
+.movie-name {
+    font-size:26px;
+    margin-bottom:14px;
+    color: rgb(8, 6, 65);
+}
+.content {
+    margin:10px;
+}

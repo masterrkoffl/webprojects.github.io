@@ -3,12 +3,12 @@
 }
 .main-container {
     height:auto; 
-    width:100vw; 
+    width:100%; 
     padding:10px;
-    background-color: #8b84f8;
+    background-color: #5448fe;
 }
 .main-heading {
-    color: rgb(6, 6, 52);
+    color: rgb(253, 253, 255);
     margin-top: 20px;
     text-align: center; 
 }
@@ -86,5 +86,10 @@
     }
     .main-heading::after {
         content:" (TollyWood)";
+    }
+    .btn-primary {
+        width:40%;
+        padding:10px;
+        align-self: center;
     }
 }

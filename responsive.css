@@ -56,7 +56,7 @@
     margin:10px;
     justify-content: center;
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 600px) { 
     .main-heading {
         color: whitesmoke;
         font-weight:bold;
